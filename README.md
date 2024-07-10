@@ -1,10 +1,4 @@
-Brief guide for Hackintoshing MSI Modern 14 b10mw (Intel® Core™ i3/i5/i7 10th Generation/ comet lake) Models.
-
-## Screenshots
-
-![Screenshot](https://private-user-images.githubusercontent.com/103637434/305134853-5fc0c894-7777-46be-96ce-f73a9622addb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwMTI1NzksIm5iZiI6MTcwODAxMjI3OSwicGF0aCI6Ii8xMDM2Mzc0MzQvMzA1MTM0ODUzLTVmYzBjODk0LTc3NzctNDZiZS05NmNlLWY3M2E5NjIyYWRkYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxNVQxNTUxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTU2MWIwNzAxYzhhM2FhYjc0ODk4MzdmODk1NjhhY2ExOTM0N2Q3NzM3OTFjZTEzOTk5ZmJiOTNmYjcwYTQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.OdDVJWDCYle9qenlBC5M0aZt0rmB6YBKNrTjfq6lekY)
-
-
+Brief guide for Hackintoshing MSI Modern 14 b10mw (Intel® Core™ i3/i5/i7 10th Generation/ comet lake) Models. (Forked from my original repo)
 
 ## WARNING
 Testing out something experimental may cause your device lagging/ battery draining problems/ excessive heating/ dead devices or other hardware issues. Test at your own risk.
